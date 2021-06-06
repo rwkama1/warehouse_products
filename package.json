@@ -1,0 +1,16 @@
+{
+  "name": "warehouse_data_products",
+  "version": "1.0.0",
+  "description": "A warehouse has collected the data of N products, for this they are entered in a repetitive process: the type (food, clothing), the origin (National, Imported) and the price of each product",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/warehouse_products"
+  },
+ 
+  "keywords": ["js","javascript","calculation","warehouse","product","price","type"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
